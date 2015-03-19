@@ -2,6 +2,9 @@
 PARMA: A Predicate-Argument Aligner
 ===================================
 
+Note: There is a newer version of this codebase [here](https://github.com/hltcoe/parma2),
+and this should be considered deprecated.
+
 Copyright (c) 2013, Johns Hopkins University. All rights reserved.
 This software is released under the 2-clause BSD license.
 
